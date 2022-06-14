@@ -1,10 +1,10 @@
 ## Twitter Timeline
 Twitter Timeline Project. All of #100Devs tweets will be shown here.
 
-The site is live at : https://tweetsby100devs.netlify.app/
+The site is live at : https://tweetsby100devs.netlify.app/ or https://100devstweets.netlify.app/
 
 <a target="_blank" href="https://tweetsby100devs.netlify.app">
-          <img src="" width="100%" alt="Tweets by 100Devs"/>
+          <img src="https://github.com/rahulkarda/100Devs-Tweets/blob/master/images/tweetsby100devs.jpg?raw=true" width="100%" alt="Tweets by 100Devs"/>
 </a>
 <br>
 
